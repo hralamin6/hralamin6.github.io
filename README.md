@@ -31,23 +31,23 @@ I specialize in building **robust web applications** using **Laravel, Livewire, 
 ---
 
 ## 📂 **Projects**
-- 🔹 **[Arabic Language Learning Website](#)** – An interactive platform for learning Arabic.  
-- 🔹 **[Personal Portfolio Website](#)** – Showcasing my projects, skills, and achievements.  
-- 🔹 **[Starter Web Project](#)** – A base template for new web projects.  
-- 🔹 **[Learn Atom](#)** – An educational resource on the Atom text editor.  
-- 🔹 **[Expense Management System](#)** – A tool for tracking and managing expenses.  
-- 🔹 **[Farm Business Management System](#)** – Managing farm inventory and financials.  
-- 🔹 **[Ideal Daily Task Management](#)** – A productivity app for daily task tracking.  
-- 🔹 **[Find Imam](#)** – A platform to locate Imams for religious services.  
-- 🔹 **[Stock Management System](#)** – A business inventory tracking solution.  
-- 🔹 **[Note Management System](#)** – A secure tool for managing and categorizing notes.  
+- 🔹 **[Arabic Language Learning Website](https://arabiclearning.hralamin.xyz/)** – An interactive platform for learning Arabic.  
+- 🔹 **[Personal Portfolio Website](https://hralamin.xyz/)** – Showcasing my projects, skills, and achievements.  
+- 🔹 **[Starter Web Project](https://starter.hralamin.xyz/)** – A base template for new web projects.  
+- 🔹 **[Learn Atom](https://learnatom.hralamin.xyz/)** – An educational resource on the Atom text editor.  
+- 🔹 **[Expense Management System](https://expense.hralamin.xyz/)** – A tool for tracking and managing expenses.  
+- 🔹 **[Farm Business Management System](https://farmbusiness.hralamin.xyz/)** – Managing farm inventory and financials.  
+- 🔹 **[Ideal Daily Task Management](https://taskmanager.hralamin.xyz/)** – A productivity app for daily task tracking.  
+- 🔹 **[Find Imam](https://findimam.hralamin.xyz/)** – A platform to locate Imams for religious services.  
+- 🔹 **[Stock Management System](https://stockmanager.hralamin.xyz/)** – A business inventory tracking solution.  
+- 🔹 **[Note Management System](https://notes.hralamin.xyz/)** – A secure tool for managing and categorizing notes.  
 
 ---
 
 ## 📞 **Contact Me**
 📍 **Location:** Sher-E-Bangla Hall-1, PSTU, Patuakhali  
-📧 **Email:** hralamin2020@gmail.com  
-📞 **Phone:** +8801650286494  
+📧 **Email:** [hralamin2020@gmail.com](mailto:hralamin2020@gmail.com)  
+📞 **Phone:** [+8801650286494](tel:+8801650286494)  
 🔗 **GitHub:** [github.com/hralamin6](https://github.com/hralamin6)  
 🌐 **Website:** [hralamin.xyz](https://hralamin.xyz)  
 
