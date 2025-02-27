@@ -31,18 +31,18 @@ I specialize in building **robust web applications** using **Laravel, Livewire, 
 ---
 
 ## 📂 **Projects**
-- 🔹 **[Arabic Language Learning Website](https://arabiclearning.hralamin.xyz/)** – An interactive platform for learning Arabic.  
-- 🔹 **[Personal Portfolio Website](https://hralamin.xyz/)** – Showcasing my projects, skills, and achievements.  
-- 🔹 **[Starter Web Project](https://starter.hralamin.xyz/)** – A base template for new web projects.  
-- 🔹 **[Learn Atom](https://learnatom.hralamin.xyz/)** – An educational resource on the Atom text editor.  
+- 🔹 **[Arabic Language Learning Website](https://arabic.hralamin.xyz/)** – An interactive platform for learning Arabic.  
+- 🔹 **[Learn Atom](https://atom.hralamin.xyz/)** – An educational resource on the Atom text editor.  
+- 🔹 **[CSE Project](https://cse.hralamin.xyz/)** – Various academic and technical projects related to CSE.  
 - 🔹 **[Expense Management System](https://expense.hralamin.xyz/)** – A tool for tracking and managing expenses.  
-- 🔹 **[Farm Business Management System](https://farmbusiness.hralamin.xyz/)** – Managing farm inventory and financials.  
-- 🔹 **[Ideal Daily Task Management](https://taskmanager.hralamin.xyz/)** – A productivity app for daily task tracking.  
-- 🔹 **[Find Imam](https://findimam.hralamin.xyz/)** – A platform to locate Imams for religious services.  
-- 🔹 **[Stock Management System](https://stockmanager.hralamin.xyz/)** – A business inventory tracking solution.  
-- 🔹 **[Note Management System](https://notes.hralamin.xyz/)** – A secure tool for managing and categorizing notes.  
-
----
+- 🔹 **[Farm Business Management System](https://farm.hralamin.xyz/)** – Managing farm inventory and financials.  
+- 🔹 **[Personal Portfolio Website](https://hralamin.hralamin.xyz/)** – Showcasing my projects, skills, and achievements.  
+- 🔹 **[Ideal Daily Task Management](https://idt.hralamin.xyz/)** – A productivity app for daily task tracking.  
+- 🔹 **[Find Imam Hujur](https://imamhujur.hralamin.xyz/)** – A platform to locate Imams for religious services.  
+- 🔹 **[News Management System](https://news.hralamin.xyz/)** – A web-based system for managing and publishing news.  
+- 🔹 **[Note Management System](https://note.hralamin.xyz/)** – A secure tool for managing and categorizing notes.  
+- 🔹 **[Starter Web Project](https://starter.hralamin.xyz/)** – A base template for new web projects.  
+- 🔹 **[Pharmacy Management System](https://farm.hralamin.xyz/)** – A system for managing pharmacy inventory and sales.
 
 ## 📞 **Contact Me**
 📍 **Location:** Sher-E-Bangla Hall-1, PSTU, Patuakhali  
